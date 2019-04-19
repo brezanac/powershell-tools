@@ -2,7 +2,7 @@
 
 This project contains a collection of Powershell scripts which were specifally written to solve issues and automate tasks on Windows operating systems.
 
-New scripts will be added over time as they are written and tested.
+New scripts will be added as they become available.
 
 ## Usage
 
